@@ -1,0 +1,736 @@
+
+Literature
+LIT001
+Tuoi Tre Va Tinh Yeu
+Nguyen Nhat Anh
+2020
+Vietnamese
+300
+13x20 cm
+Bia mem
+250
+100
+200
+120000
+100000
+Mot cau chuyen cam dong ve tuoi tre va tinh yeu.
+
+Literature
+LIT002
+Chien Tranh Va Hoa Binh
+Bao Ninh
+2021
+Vietnamese
+350
+15x21 cm
+Bia cung
+300
+80
+150
+150000
+130000
+Tieu thuyet noi ve chien tranh va hoa binh.
+
+Literature
+LIT003
+Tam Hon Nguoi Viet
+Nguyen Huy Thiep
+2022
+Vietnamese
+280
+12x18 cm
+Bia mem
+210
+120
+180
+90000
+80000
+Mot tac pham cham biem xuyen thau tam hon nguoi Viet.
+
+Literature
+LIT004
+Xa Hoi Hien Thuc
+Vu Trong Phung
+2023
+Vietnamese
+310
+14x22 cm
+Bia cung
+260
+90
+160
+140000
+120000
+Phan anh nhung van de xa hoi qua goc nhin hien thuc.
+
+Literature
+LIT005
+Tinh Yeu Va Cong Bang
+Nam Cao
+2024
+Vietnamese
+320
+13x20 cm
+Bia mem
+240
+110
+190
+130000
+110000
+Dau tranh cho tinh yeu va cong bang xa hoi.
+
+Literature
+LIT006
+Lang Que Viet
+To Hoai
+2020
+Vietnamese
+290
+12x19 cm
+Bia cung
+220
+85
+175
+100000
+90000
+Chuyen ke ve lang que va tinh than nguoi Viet.
+
+Literature
+LIT007
+Tinh Than Vuon Len
+Pham Tuan Anh
+2021
+Vietnamese
+330
+15x21 cm
+Bia mem
+280
+95
+140
+135000
+115000
+Mot cau chuyen tinh cam manh me ve tinh than luon vuon len.
+
+Literature
+LIT008
+Moi Quan He
+Hoang Anh Tu
+2022
+Vietnamese
+275
+14x20 cm
+Bia cung
+270
+100
+220
+125000
+105000
+Moi quan he phong phu va xuc dong giua cac nhan vat.
+
+Literature
+LIT009
+Khong Tuong Day Cam Xuc
+Doan Van Cu
+2023
+Vietnamese
+310
+16x24 cm
+Bia cung
+260
+105
+185
+145000
+125000
+Mot cau chuyen khong tuong day cam xuc va y nghia.
+
+Literature
+LIT010
+Gia Dinh Va Phan Dau
+Truong Vu
+2024
+Vietnamese
+300
+13x19 cm
+Bia cung
+255
+75
+205
+150000
+130000
+Tinh yeu, gia dinh va phan dau trong cuoc song.
+
+Economics
+ECO001
+Quan Tri Tai Chinh
+Le Van Tam
+2020
+Vietnamese
+370
+15x21 cm
+Bia cung
+275
+80
+210
+155000
+135000
+Giai phap cho nhung bai toan quan tri tai chinh doanh nghiep.
+
+Economics
+ECO002
+Quan Tri Nhan Su
+Bui Tuan Dung
+2021
+Vietnamese
+280
+13x20 cm
+Bia cung
+250
+60
+230
+140000
+120000
+Nhung nguyen ly ve quan tri nhan su trong doanh nghiep.
+
+Economics
+ECO003
+Phu Nu Lanh Dao
+Dang Thi Hoa
+2022
+Vietnamese
+340
+16x24 cm
+Bia cung
+360
+100
+280
+200000
+180000
+Vai tro cua phu nu trong lanh dao doanh nghiep hien dai.
+
+Economics
+ECO004
+Chien Luoc Khach Hang
+Pham Hong Quan
+2023
+Vietnamese
+315
+14x21 cm
+Bia cung
+315
+70
+225
+175000
+155000
+Phat trien chien luoc tiep can khach hang thong minh.
+
+Economics
+ECO005
+Phat Trien Ben Vung
+Tran Thi Lan
+2024
+Vietnamese
+300
+15x22 cm
+Bia cung
+280
+85
+240
+160000
+145000
+Nhung y tuong moi ve phat trien ben vung trong kinh te.
+
+Self-help/Psychology
+PSY001
+Thanh Cong Va Hanh Phuc
+Nguyen Thanh Tam
+2020
+Vietnamese
+280
+14x20 cm
+Bia mem
+200
+90
+300
+120000
+100000
+Nhung bi quyet giup ban dat duoc thanh cong va hanh phuc.
+
+Self-help/Psychology
+PSY002
+Kiem Soat Cam Xuc
+Le Van Minh
+2021
+Vietnamese
+320
+13x19 cm
+Bia cung
+220
+80
+260
+130000
+110000
+Cach de kiem soat cam xuc va tu duy tich cuc.
+
+Self-help/Psychology
+PSY003
+Giao Tiep Hieu Qua
+Bui Thi Anh
+2022
+Vietnamese
+340
+15x21 cm
+Bia cung
+280
+100
+240
+150000
+130000
+Bi quyet giao tiep va thuyet phuc hieu qua trong cuoc song.
+
+Self-help/Psychology
+PSY004
+Vuot Qua Noi So
+Tran Quang Huy
+2023
+Vietnamese
+300
+14x22 cm
+Bia mem
+250
+75
+200
+140000
+120000
+Lam the nao de vuot qua noi so va ap luc trong cong viec.
+
+Self-help/Psychology
+PSY005
+Khai Pha Tiem Nang
+Dang Thu Ha
+2024
+Vietnamese
+290
+13x20 cm
+Bia cung
+270
+60
+220
+145000
+125000
+Khai pha tiem nang ban than va nang cao su tu tin.
+
+Self-help/Psychology
+PSY006
+Kien Nhan Va Ky Nang
+Hoang Anh Tuan
+2020
+Vietnamese
+310
+15x22 cm
+Bia cung
+260
+85
+210
+135000
+115000
+Thuc hanh long kien nhan va ky nang song cham.
+
+Self-help/Psychology
+PSY007
+Quyet Dinh Thong Minh
+Pham Hong Ngoc
+2021
+Vietnamese
+270
+13x19 cm
+Bia mem
+230
+70
+290
+125000
+105000
+Ren luyen kha nang ra quyet dinh thong minh va hieu qua.
+
+Self-help/Psychology
+PSY008
+Chinh Phuc Muc Tieu
+Vo Thi Thu
+2022
+Vietnamese
+350
+14x20 cm
+Bia cung
+310
+95
+250
+160000
+140000
+Chinh phuc muc tieu va thuc hien uoc mo cua ban.
+
+Self-help/Psychology
+PSY009
+Quan Ly Thoi Gian
+Pham Minh Hoang
+2023
+Vietnamese
+300
+13x18 cm
+Bia mem
+240
+110
+230
+130000
+115000
+Kham pha ban than va ky nang quan ly thoi gian.
+
+Self-help/Psychology
+PSY010
+Tu Duy Tich Cuc
+Tran Hoang Minh
+2024
+Vietnamese
+280
+15x21 cm
+Bia cung
+220
+90
+280
+150000
+135000
+Tu duy tich cuc va song lanh manh moi ngay.
+
+Reference Textbooks
+REF001
+Toan Hoc Lop 12
+Nguyen Van Khoa
+2020
+Vietnamese
+300
+21x29 cm
+Bia cung
+200
+50
+150
+120000
+100000
+Sach tham khao toan hoc lop 12 giup on tap kiem tra va thi.
+
+Reference Textbooks
+REF002
+Vat Ly Lop 11
+Tran Thi Minh
+2021
+Vietnamese
+320
+21x29 cm
+Bia cung
+220
+40
+180
+130000
+110000
+Sach tham khao vat ly lop 11 voi cac bai tap nang cao.
+
+Reference Textbooks
+REF003
+Hoa Hoc Lop 10
+Pham Quoc Dat
+2022
+Vietnamese
+280
+20x28 cm
+Bia mem
+210
+45
+160
+115000
+95000
+Sach on tap hoa hoc lop 10 voi cac bai tap de hieu.
+
+Reference Textbooks
+REF004
+Tieng Anh Nang Cao
+Hoang Thi Lan
+2023
+Vietnamese
+340
+21x29 cm
+Bia cung
+240
+60
+200
+135000
+115000
+Tai lieu tieng Anh nang cao danh cho hoc sinh THPT.
+
+Reference Textbooks
+REF005
+Sinh Hoc Lop 9
+Le Thanh Son
+2024
+Vietnamese
+250
+21x29 cm
+Bia mem
+190
+70
+140
+110000
+90000
+Tai lieu tham khao sinh hoc 9 phuc vu cho on thi.
+
+Reference Textbooks
+REF006
+Su Hoc Lop 9
+Nguyen Thi Thu Ha
+2020
+Vietnamese
+310
+20x27 cm
+Bia cung
+230
+55
+190
+125000
+105000
+Tai lieu on tap su hoc lop 9 voi cac cau hoi tu luan.
+
+Reference Textbooks
+REF007
+Dia Ly Lop 12
+Doan Quoc Anh
+2021
+Vietnamese
+290
+21x29 cm
+Bia mem
+215
+35
+170
+120000
+100000
+Sach tham khao dia ly 12 giup hoc sinh on thi tot nghiep.
+
+Reference Textbooks
+REF008
+Tin Hoc THCS
+Nguyen Huu Phuc
+2022
+Vietnamese
+260
+20x28 cm
+Bia cung
+205
+30
+150
+118000
+98000
+Sach bai tap nang cao tin hoc danh cho hoc sinh THCS.
+
+Reference Textbooks
+REF009
+Ngu Van THPT
+Tran Phuong Linh
+2023
+Vietnamese
+350
+21x29 cm
+Bia cung
+250
+60
+210
+140000
+120000
+Sach on tap ngu van THPT voi nhung bai van chon loc.
+
+Reference Textbooks
+REF010
+Sinh Hoc THPT
+Pham Hoang Bao
+2024
+Vietnamese
+280
+21x29 cm
+Bia mem
+220
+65
+160
+130000
+110000
+Tai lieu on tap mon sinh hoc THPT danh cho ky thi dai hoc.
+
+Children's Books
+CHD001
+Dong Vat Vui Nhon
+Nguyen Van Hoa
+2020
+Vietnamese
+150
+18x24 cm
+Bia mem
+80
+50
+300
+50000
+40000
+Nhung cau chuyen dong vat vui nhon va y nghia cho tre em.
+
+Children's Books
+CHD002
+Tinh Ban Va Gia Dinh
+Le Thi Lan
+2021
+Vietnamese
+180
+19x25 cm
+Bia cung
+100
+60
+250
+60000
+50000
+Nhung bai hoc ve tinh ban va gia dinh thong qua cau chuyen.
+
+Children's Books
+CHD003
+Bai Hoc Cuoc Song
+Tran Minh Chau
+2022
+Vietnamese
+160
+20x26 cm
+Bia mem
+90
+40
+270
+55000
+45000
+Chuoi cau chuyen ke ve nhung bai hoc cuoc song cho tre.
+
+Children's Books
+CHD004
+Truyen Co Tich Viet Nam
+Pham Hoang Nam
+2023
+Vietnamese
+170
+18x24 cm
+Bia cung
+110
+45
+200
+65000
+55000
+Truyen co tich Viet Nam duoc ke lai de tre em de hieu.
+
+Children's Books
+CHD005
+Long Tot Va Su Gan Ket
+Ho Thi Thu Hang
+2024
+Vietnamese
+190
+17x23 cm
+Bia mem
+95
+70
+220
+60000
+50000
+Nhung cau chuyen ve long tot va su gan ket giua ban be.
+
+Children's Books
+CHD006
+Nhan Vat Huyen Thoai
+Vu Thi Lan
+2020
+Vietnamese
+200
+19x25 cm
+Bia cung
+120
+65
+230
+70000
+60000
+Truyen ke ve cac nhan vat huyen thoai trong van hoa Viet.
+
+Children's Books
+CHD007
+Giai Tri Va Giao Duc
+Ngo Minh Anh
+2021
+Vietnamese
+160
+18x24 cm
+Bia cung
+85
+55
+210
+55000
+45000
+Nhung cau chuyen giai tri va giao duc danh cho tre tu 6 den 10 tuoi.
+
+Children's Books
+CHD008
+The Gioi Ky Dieu
+Phan Thi Thu Huong
+2022
+Vietnamese
+190
+20x27 cm
+Bia mem
+100
+50
+240
+60000
+50000
+Mot the gioi ky dieu duoc ke lai qua mat nhin cua tre em.
+
+Children's Books
+CHD009
+Phat Trien Tu Duy
+Do Tuan Anh
+2023
+Vietnamese
+180
+18x24 cm
+Bia cung
+110
+30
+250
+65000
+55000
+Chuoi truyen vui ve giup tre em phat trien tu duy.
+
+Children's Books
+CHD010
+Gia Tri Va Long Yeu Thuong
+Tran Hoang Yen
+2024
+Vietnamese
+170
+19x25 cm
+Bia mem
+90
+75
+280
+60000
+50000
+Nhung bai hoc ve gia tri va long yeu thuong trong cuoc song.
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+11
+1
+1
+1
+1
